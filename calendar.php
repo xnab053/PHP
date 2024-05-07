@@ -143,12 +143,10 @@ echo "</div>";
 
 ?>
 
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<a href="index.html">回首頁</a>
 </body>
 </html>
